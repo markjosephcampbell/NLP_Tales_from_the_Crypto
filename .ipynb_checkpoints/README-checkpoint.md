@@ -37,7 +37,6 @@ Used descriptive statistics to answer the following questions:
 > Ethereum had the highest positive score.
 
 
-
 ### 2 - Natural Language Processing
 
 In this section, I used NLTK and Python to tokenize text, found n-gram counts, and created word clouds for both coins. 
